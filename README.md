@@ -76,7 +76,7 @@ ____________________________________________________
 
   1. Handler 사용
 
-      ![Handler]()
+      ![Handler](https://github.com/Hooooong/DAY19_Thread/blob/master/image/handler.PNG)
 
       ```java
       public class MainActivity extends AppCompatActivity {
