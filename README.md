@@ -157,6 +157,6 @@ ____________________________________________________
 
   3. AsyncTask 사용
 
-    - 참조 : [AsyncTask](https://github.com/Hooooong/DAY25_HTTPConnect#asynctask)
+      - 참조 : [AsyncTask](https://github.com/Hooooong/DAY25_HTTPConnect#asynctask)
 
 - 참조 : [Thread 란?](https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A0%88%EB%93%9C)
