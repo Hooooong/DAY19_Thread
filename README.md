@@ -36,7 +36,7 @@ ____________________________________________________
       public class Example1{
       	public static void main(String[] args) {
       		Thread test = new ThreadTest();
-          // Thrad 시작
+      		// Thread 시작
       		test.start();
       	}
       }
@@ -57,7 +57,7 @@ ____________________________________________________
       	public static void main(String[] args) {
 
       		Thread test = new Thread(new Example2());
-          // Thrad 시작
+      		// Thread 시작
       		test.start();
       	}
 
